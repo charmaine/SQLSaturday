@@ -4,6 +4,6 @@ Here are the slides to my first talk (with Anthony Chu & Gora Kong) at a big con
 
 This presentation was prepared for an audience of ~450 developers.
 
-![Schedule](https://github.com/charmaine/SQLSaturday/schedule.png "Schedule")
+![Schedule](https://github.com/charmaine/SQLSaturday/blob/master/schedule.png "Schedule")
 
-![Description](https://github.com/charmaine/SQLSaturday/description.png "Description")
+![Description](https://github.com/charmaine/SQLSaturday/blob/master/description.png "Description")
